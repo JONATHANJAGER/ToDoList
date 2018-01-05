@@ -1,0 +1,55 @@
+@media (max-width: 450px) {
+
+	body {
+		margin:0;
+
+	}
+
+	.background {
+		padding:0;
+	}
+
+	header {
+		font-size: 60px;
+	}
+
+	#adder input {
+		width: 250px;
+		height: 40px;
+	}
+
+	#adder button {
+		font-size: 40px;
+		margin-top: 40px;
+	}
+
+	#adder {
+		font-size: 0;
+	}
+
+	.list {
+		padding: 0;
+	}
+
+	.list-item {
+		font-size: 40px;
+		padding-left:0;
+	}
+
+	.list-item input[type=checkbox] {
+		width:40px;
+		height:35px;
+	}
+
+	.x {
+		margin-right:2.5em;
+		left:55px;
+	}
+
+	body h3 {
+		width: 390px;
+		font-size: 18px;
+		padding:28;
+	}
+
+}
